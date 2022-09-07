@@ -10,8 +10,8 @@ from githubdata import GithubData
 
 
 class GDUrl :
-    trg = 'https://github.com/imahdimir/rd-tse_ir-industry-subIndustry'
-    cur = 'https://github.com/imahdimir/u-rd-tse_ir-industry-subIndustry'
+    trg = 'https://github.com/imahdimir/rd-l0-tse_ir-industry-subIndustry'
+    cur = 'https://github.com/imahdimir/u-rd-l0-tse_ir-industry-subIndustry'
 
 gdu = GDUrl()
 
